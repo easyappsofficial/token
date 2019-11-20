@@ -13,5 +13,8 @@
  },
  "ImagesToVideoForHuawei": {
    "token": "QLnsmMUAuM7NqdSASs50HL/JTi7GFbK0tXyJx1Z66BfnoJWvPze/p3iTZkXQkphY/qykdRzSbQKikjQW5B3D6NOlbfPJk5uR4OqSSb+wj4M="
+ },
+ "ImagesToVideoForMi": {
+   "token": "QLnsmMUAuM7NqdSASs50HH3i1dx1r4ZzP7zXrqOjc5U9WMJg6iswQ4VdHAJBGlqv8+HAeT3BWkHgW7d/0IL+0F9WEJSonVqpIzDAPbkGVM0="
  }
 }
